@@ -1,7 +1,4 @@
-<p align="center">
-  Amigo Secreto
-</p>
-
+#Amigo Secreto
 
 ![Static Badge](https://img.shields.io/badge/version-0.1-blue)
 ![Static Badge](https://img.shields.io/badge/lanzamiento-19%20septiembre%202025-blue)
