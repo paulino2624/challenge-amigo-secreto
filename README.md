@@ -4,7 +4,7 @@
   ![Badge version](https://img.shields.io/badge/version-0.1-blue)
 </p>
 <p align="left">
-![Badge lanzamientp](https://img.shields.io/badge/fecha_lanzamiento_-19_sep-blue)
+![Badge lanzamiento](https://img.shields.io/badge/fecha_lanzamiento_-19_sep-blue)
 </p>
 
 
