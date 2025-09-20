@@ -1,7 +1,12 @@
 
 <h1 align="center"><em>Amigo Secreto</em></h1>
-![Badge version](https://img.shields.io/badge/version-0.1-blue)
+<p align="left">
+  ![Badge version](https://img.shields.io/badge/version-0.1-blue)
+</p>
+<p align="left">
 ![Badge lanzamientp](https://img.shields.io/badge/fecha_lanzamiento_-19_sep-blue)
+</p>
+
 
 ![Imagen de amigo secreto](https://github.com/user-attachments/assets/0200afcc-2ff2-4e8d-b7b3-b9735b7b1965)
 
