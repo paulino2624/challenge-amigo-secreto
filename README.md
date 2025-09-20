@@ -9,6 +9,6 @@
 
 En este repositorio se podrá agregar una lista de nombres y cuando se da click al botón "Sortear amigo" devolverá un nombre al azar desde la lista de amigos agregados.
 
+Como funciona
 
-
-
+![tutorial](https://github.com/user-attachments/assets/47aa47a0-5d46-4e76-a8e1-756b034ec01d)
