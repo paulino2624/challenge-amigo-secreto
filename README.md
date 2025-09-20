@@ -2,6 +2,7 @@
 <h1 align="center"><em>Amigo Secreto</em></h1>
 <p align="left">
   ![version](https://img.shields.io/badge/version-0.1-blue)
+  (https://img.shields.io/badge/any_text-you_like-blue)
 </p>
 <p align="left">
 ![Badge lanzamiento](https://img.shields.io/badge/fecha_lanzamiento_-19_sep-blue)
